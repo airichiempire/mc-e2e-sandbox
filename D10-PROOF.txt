@@ -1,0 +1,4 @@
+D10 secure git auth proof
+Generated: 2026-11-10T07:43:15Z
+Worker build: 04ec78378a7314527a517973fba90d01d80df2ab12eceba1d9429d138daefc97
+Mechanism: username-only URL + ephemeral GIT_ASKPASS + MC_GH_TOKEN via child env
