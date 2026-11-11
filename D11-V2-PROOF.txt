@@ -1,0 +1,3 @@
+Directive 11 v2 - Windows broker E2E 
+node: windows-main ArtRich 
+auth: username-only URL + ephemeral GIT_ASKPASS + MC_GH_TOKEN env 
